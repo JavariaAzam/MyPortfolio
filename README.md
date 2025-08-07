@@ -17,4 +17,4 @@
 🔗 Let’s connect:
 - 📬 Email: javairiazam2005@gmail.com
 
-- 💻 GitHub Portfolio: [JavariaAzam.github.io/my-portfolio](https://JavariaAzam.github.io/my-portfolio)
+- 💻 GitHub Portfolio: [JavariaAzam.github.io/MyPortfolio](https://JavariaAzam.github.io/MyPortfolio)
